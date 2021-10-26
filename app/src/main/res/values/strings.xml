@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NguyenThiThanhHoa_19429041_Change_Maker</string>
+    <string name="price_2_34">Price : 2.34</string>
+    <string name="_20_0">$20: 0</string>
+    <string name="_5_c_1">5 c: 1</string>
+    <string name="_1_2">$1: 2</string>
+    <string name="_10_c_0">10 c: 0</string>
+    <string name="_5_0">$5: 0</string>
+    <string name="_25_c_1">25 c: 1</string>
+    <string name="_1_c_4">1 c: 4</string>
+    <string name="_10_0">$10: 0</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="_0">0</string>
+    <string name="clear">CLEAR</string>
+</resources>
